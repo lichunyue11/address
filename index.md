@@ -40,5 +40,7 @@ chainlist文档:https://chainlist.org/
 
 vue如何新建一个项目:https://www.jianshu.com/p/02b12c600c7b
 
+Git 修改已提交的commit注释:https://www.jianshu.com/p/098d85a58bf1
 
+vue实现页面滚动到某一位置时，div以动画出现:https://blog.csdn.net/iufesjgc/article/details/114670277?spm=1001.2101.3001.6650.6&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7Edefault-6.no_search_link&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7Edefault-6.no_search_link
 
